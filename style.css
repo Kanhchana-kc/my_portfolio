@@ -59,6 +59,18 @@ body{
     display: none;
 }
 /* start animated-text */
+section .images_1{
+    width: 50%;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.2rem  solid #ae4646;
+    border-radius: 50%;
+    box-shadow: 1rem 1rem 4rem #edacac;
+}
 
 .animated-text{
     font-size: 24px;
