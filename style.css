@@ -111,9 +111,9 @@ section .images_1{
         content: "Video Editor";
     }
     41%,60%{
-        content: "Designer";
+        content: "Dev";
     }
-    81%,100%{
+    61%,100%{
         content: "Graphic Designer";
     }
 
@@ -507,10 +507,10 @@ margin-bottom: 1rem;
 left: 50%;
 display: flex;
 }
-.left-container{
+/* .left-container{
     /* right: 35%;
     display: flex; */
-}
+ */
 .timeline::after{
     content: "";
     position: absolute;
